@@ -18,7 +18,7 @@ for (let plushy of plushies) {
         <div class="plushies">
             <img
             src="${plushy.image}"
-            alt="A ${plushy.brand} ${plushy.model} plushy"
+            alt="An ${plushy.brand} ${plushy.model} plushy"
             />
             <div class="description">
             <div>
