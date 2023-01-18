@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website | Contact</title>
+    <link rel="stylesheet" href="/styles/contact.css">
+    <link rel="stylesheet" href="/styles/all.css">
+    <script src="https://kit.fontawesome.com/f850a1e8d5.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="navbar">    
+        <a href="/homepage.html"><img src="/images/logo.png" alt="My Company Logo" width="80" height="35"></a>
+        <div class="barLinks">        
+            <a href="/homepage.html">Home</a>
+            <a href="/shop.html">Shop</a>
+            <a href="/contact.html">Contact</a>
+        </div>
+    </div>
+    
+    <div class="contactPage">
+        <div class="contactInfo">
+            <h1><strong>Contact Info</strong></h1>
+            <p>Phone: 705-427-9103<br>Email: schabikuli@civiconnect.ca<br>Address: 146 King Street Waterloo ON, CA<br>Postal Code: N2J2X9</p>
+        </div>
+        <div class="contactForm">
+            <h2><strong> Send Us a Message</strong></h2>
+            <form class="form1" style="width:100%" action="https://formsubmit.co/schabikuli@civiconnect.ca" method="POST">
+                <lable for="fullName">Full Name:</lable><br>
+                <input style="width:100%" type="text" name ="name" class="form-control" placeholder="John Doe" required><br>
+                <lable for="email">Your Email:</lable><br>
+                <input style="width:100%" type="text" name ="email" class="form-control" placeholder="Your Email" required> <br>
+                <lable for="message">Your Message:</lable><br>
+                <textarea style="width:100%" rows="5" placeholder="Enter Your Message" class="form-control" name="message" required></textarea><br>
+                <!-- Button to submit form -->
+                <button type="submit" class="sendForm">Send <i class="fa-solid fa-share-from-square"></i></button>
+            </form>
+        </div>
+    </div>
+
+</body>
+</html>

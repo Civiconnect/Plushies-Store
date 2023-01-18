@@ -1,0 +1,39 @@
+[
+    {
+        "brand": "Among Us", 
+        "model": "red",
+        "price": 20,
+        "image": "/images/plushies/redSUS.jpg"
+    },
+    {
+        "brand": "Among Us", 
+        "model": "pink",
+        "price": 20,
+        "image": "/images/plushies/pinkSUS.jpg"
+    },
+    {
+        "brand": "Among Us", 
+        "model": "orange",
+        "price": 20,
+        "image": "/images/plushies/orangeSUS.jpg"
+    },
+    {
+        "brand": "Among Us", 
+        "model": "purple",
+        "price": 20,
+        "image": "/images/plushies/purpleSUS.jpg"
+    },
+    {
+        "brand": "Among Us", 
+        "model": "blue",
+        "price": 20,
+        "image": "/images/plushies/blueSUS.jpg"
+    },
+    {
+        "brand": "Among Us", 
+        "model": "black",
+        "price": 20,
+        "image": "/images/plushies/blackSUS.jpg"
+    }
+
+]

@@ -1,0 +1,62 @@
+body{
+    background-color: #fbe39b;
+}
+
+.items{
+    transform:translate(0, 50px)
+}
+
+.plushies {
+    background-color: #fff;
+    border-radius: 16px;
+    border: 1px solid #02121c;
+    overflow: hidden;
+    box-shadow: 0px 0px 4px rgba(2, 18, 28, 0.35);
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.plushies img {
+    width: 250px;
+    height: 250px;
+    object-fit:contain;
+}
+
+.description {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 24px;
+    border-top: 1px solid #02121c;
+}
+
+.description h2 {
+    font-size: 1.125rem;
+    font-weight: 600;
+}
+
+.description p {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.plushies-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    justify-items: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 32px 0;
+}
+
+.items {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
