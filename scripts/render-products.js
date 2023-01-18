@@ -5,6 +5,7 @@ const response = await fetch("/Plushies-Store/plushies.json");
 const plushies = await response.json();
 
 // print to console
+console.log("Plushies:")
 console.log(plushies);
 
 const grid = document.querySelector('.plushies-grid');
