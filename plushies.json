@@ -9,31 +9,31 @@
         "brand": "Among Us", 
         "model": "pink",
         "price": 20,
-        "image": "/Plushies-Store/images/plushies/pinkSUS.jpg"
+        "image": "/Plushies-Store/images/plushies/redSUS.jpg"
     },
     {
         "brand": "Among Us", 
         "model": "orange",
         "price": 20,
-        "image": "/Plushies-Store/images/plushies/orangeSUS.jpg"
+        "image": "/Plushies-Store/images/plushies/redSUS.jpg"
     },
     {
         "brand": "Among Us", 
         "model": "purple",
         "price": 20,
-        "image": "/Plushies-Store/images/plushies/purpleSUS.jpg"
+        "image": "/Plushies-Store/images/plushies/redSUS.jpg"
     },
     {
         "brand": "Among Us", 
         "model": "blue",
         "price": 20,
-        "image": "/Plushies-Store/images/plushies/blueSUS.jpg"
+        "image": "/Plushies-Store/images/plushies/redSUS.jpg"
     },
     {
         "brand": "Among Us", 
         "model": "black",
         "price": 20,
-        "image": "/Plushies-Store/images/plushies/blackSUS.jpg"
+        "image": "/Plushies-Store/images/plushies/redSUS.jpg"
     }
 
 ]
